@@ -104,16 +104,22 @@ After executing each test, update the result in TestRail with the following:
 Regularly check the test run to ensure that results are updated and accurate.
 
 **Generating Reports**
+
 1.**Generate Test Run Reports:**
-Once the test run is complete, you can generate reports for a comprehensive overview.
-Navigate to the Reports section in TestRail and select the desired report format (e.g., PDF, Excel).
+* Once the test run is complete, you can generate reports for a comprehensive overview.
+* Navigate to the Reports section in TestRail and select the desired report format (e.g., PDF, Excel).
+  
 2.**Export Results:**
 You can export test results to formats like Excel or CSV for detailed analysis or to share with stakeholders.
 
 **Best Practices**
+
 Be Detailed in Test Cases: Ensure test cases are clear and cover all necessary steps and expected outcomes.
+
 **Update Test Results Promptly:** Log test results as soon as they are completed to avoid missing any critical details.
+
 **Use Descriptive Comments:** Provide detailed information when a test fails or is blocked. This will help the development team address the issues effectively.
+
 **Organize Test Cases Logically:** Group similar tests into test suites and use proper naming conventions to make test case execution easier.
 
 **Troubleshooting**
