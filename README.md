@@ -59,20 +59,21 @@ Provide the following details for each test case:
 
 2.**Edit or Organize Test Cases:**
 
-If needed, edit test cases to reflect changes in the system or app.
-Organize test cases into **Test Suites** for easy navigation and execution (e.g., "**Regression**", "**Smoke Testing**").
+* If needed, edit test cases to reflect changes in the system or app.
+* Organize test cases into **Test Suites** for easy navigation and execution (e.g., "**Regression**", "**Smoke Testing**").
 
 **Test Execution Process**
 Create a Test Run:
 
-From the Test Runs section, click Add Test Run.
-Select the test plan, suite, and test cases you want to execute.
+* From the Test Runs section, click Add Test Run.
+* Select the test plan, suite, and test cases you want to execute.
+  
 **Execute Test Cases:**
 
-Open the Test Run and begin executing the test cases.
-For each test case:
-Follow the steps outlined in the test case.
-Update the status of the test case:
+* Open the Test Run and begin executing the test cases.
+* For each test case:
+* Follow the steps outlined in the test case.
+* Update the status of the test case:
 
 **Passed:** The test case worked as expected.
 
@@ -86,8 +87,9 @@ Add **comments** or **attachments** if needed (e.g., screenshots, logs).
 
 3.**Mark Test as Completed:**
 
-Once all test cases are executed, mark the test run as completed.
-Ensure that all statuses are updated for accurate tracking.
+* Once all test cases are executed, mark the test run as completed.
+  
+* Ensure that all statuses are updated for accurate tracking.
 
 **Logging Test Results**
 
@@ -106,6 +108,7 @@ Regularly check the test run to ensure that results are updated and accurate.
 **Generating Reports**
 
 1.**Generate Test Run Reports:**
+
 * Once the test run is complete, you can generate reports for a comprehensive overview.
 * Navigate to the Reports section in TestRail and select the desired report format (e.g., PDF, Excel).
   
@@ -125,12 +128,12 @@ Be Detailed in Test Cases: Ensure test cases are clear and cover all necessary s
 **Troubleshooting**
 1.**Test Case Not Executing Properly:**
 
-*Check the test environment for issues that may prevent the test from running correctly.
-*Verify that all preconditions are met and dependencies are satisfied. 
+* Check the test environment for issues that may prevent the test from running correctly.
+* Verify that all preconditions are met and dependencies are satisfied. 
 2.**Login Issues:**
 
 *Double-check your credentials.
-*If you can't log in, reset your password or contact the administrator.
+* If you can't log in, reset your password or contact the administrator.
 
 3.**Test Case Status Not Updating:**
 
