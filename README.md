@@ -11,13 +11,13 @@ Before beginning manual testing in TestRail, ensure you have the following:
 
 **Table of Contents**
 * Logging into TestRail
-*Test Plan Setup
-*Creating/Managing Test Cases
-*Test Execution Process
-*Logging Test Results
-*Generating Reports
-*Best Practices
-*Troubleshooting
+* Test Plan Setup
+* Creating/Managing Test Cases
+* Test Execution Process
+* Logging Test Results
+* Generating Reports
+* Best Practices
+* Troubleshooting
 
 **Logging into TestRail**
 Open the TestRail URL in your browser.
