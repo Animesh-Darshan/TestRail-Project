@@ -68,10 +68,15 @@ Open the Test Run and begin executing the test cases.
 For each test case:
 Follow the steps outlined in the test case.
 Update the status of the test case:
+
 **Passed:** The test case worked as expected.
+
 **Failed:** The test case did not meet expectations.
+
 **Blocked:** The test case could not be executed due to external dependencies.
+
 **Untested:** The test has not yet been executed.
+
 Add **comments** or **attachments** if needed (e.g., screenshots, logs).
 
 3.**Mark Test as Completed:**
