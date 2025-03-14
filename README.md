@@ -28,7 +28,7 @@ Before beginning manual testing in TestRail, ensure you have the following:
 * Click **Log in** to access your TestRail dashboard.
 
 **Test Plan Setup**
-To begin manual testing, follow these steps:
+* To begin manual testing, follow these steps:
 
 **Create or Access a Test Plan:**
 
@@ -94,7 +94,7 @@ Add **comments** or **attachments** if needed (e.g., screenshots, logs).
 **Logging Test Results**
 
 1.**Update Test Results:**
-After executing each test, update the result in TestRail with the following:
+* After executing each test, update the result in TestRail with the following:
 
 **Result Status:** Select whether the test passed, failed, or was blocked.
 
@@ -103,7 +103,7 @@ After executing each test, update the result in TestRail with the following:
 **Attachments:** Upload relevant screenshots or logs to clarify the results.
 
 2.**Review Test Execution:**
-Regularly check the test run to ensure that results are updated and accurate.
+* Regularly check the test run to ensure that results are updated and accurate.
 
 **Generating Reports**
 
@@ -142,6 +142,6 @@ Be Detailed in Test Cases: Ensure test cases are clear and cover all necessary s
 * If the issue persists, try refreshing the page or clearing your browser cache.
 
 # Conclusion
-This README is a demonstration for  managing and executing manual tests using **TestRail**. By following this process,we can ensure that your test cases are organized, executed efficiently, and results are accurately logged for further analysis.
+This README is a demonstration for  managing and executing manual tests using **TestRail**. By following this process,we can ensure that your **test cases** are organized, executed efficiently, and results are accurately logged for further analysis.
 
 
