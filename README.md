@@ -46,10 +46,15 @@ If needed, you can create new test cases under the **Test Cases** section.
 
 Go to **Test Cases** and click on **Add Test Case**.
 Provide the following details for each test case:
+
 **Title:** A brief description of the test.
+
 **Preconditions:** Any setup required before running the test.
+
 **Steps:** Clear, actionable steps to follow.
+
 **Expected Result:** What should happen if the test is successful.
+
 **Attachments:** Add any necessary files or images.
 
 2.**Edit or Organize Test Cases:**
@@ -88,8 +93,11 @@ Ensure that all statuses are updated for accurate tracking.
 
 1.**Update Test Results:**
 After executing each test, update the result in TestRail with the following:
+
 **Result Status:** Select whether the test passed, failed, or was blocked.
+
 **Comment:** Provide additional details such as errors encountered, specific issues, or why a test was blocked.
+
 **Attachments:** Upload relevant screenshots or logs to clarify the results.
 
 2.**Review Test Execution:**
