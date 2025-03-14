@@ -5,8 +5,11 @@ This project is a manual testing project in which i have created lots of test ca
 Before beginning manual testing in TestRail, ensure you have the following:
 
 **TestRail Account:** You must have an active TestRail account. Contact your administrator for access.
+
 **Test Plan/Project:** A test plan or project has been created and is ready for test execution.
+
 **Test Cases:** Test cases should be created in TestRail or imported into the test plan.
+
 **Test Environment:** Ensure the application or environment to be tested is set up and ready.
 
 **Table of Contents**
