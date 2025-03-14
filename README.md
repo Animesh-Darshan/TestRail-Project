@@ -1,5 +1,5 @@
 ## Overview
-This project is a manual testing project in which i have created lots of test cases of amazon website  in the **TestRail** which is a **test management tool**. The goal of this project  is to get familiar with writting test cases and learning the test management tools and its functionality in the real world.
+This project is a manual testing project in which i have created lots of test cases of amazon website  in the **TestRail** which is a **test management tool**. The goal of this project  is to get familiar with **writting test cases** and learning the **test management tools** and its functionality in the real world.
 
 ## Prerequisites
 Before beginning manual testing in TestRail, ensure you have the following:
