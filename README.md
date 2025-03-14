@@ -10,7 +10,7 @@ Before beginning manual testing in TestRail, ensure you have the following:
 **Test Environment:** Ensure the application or environment to be tested is set up and ready.
 
 **Table of Contents**
-*Logging into TestRail
+* Logging into TestRail
 *Test Plan Setup
 *Creating/Managing Test Cases
 *Test Execution Process
