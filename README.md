@@ -23,29 +23,29 @@ Before beginning manual testing in TestRail, ensure you have the following:
 * Troubleshooting
 
 **Logging into TestRail**
-Open the TestRail URL in your browser.
-Enter your **username** and **password**.
-Click **Log in** to access your TestRail dashboard.
+* Open the TestRail URL in your browser.
+* Enter your **username** and **password**.
+* Click **Log in** to access your TestRail dashboard.
 
 **Test Plan Setup**
 To begin manual testing, follow these steps:
 
 **Create or Access a Test Plan:**
 
-Navigate to **Test Plans** from the main dashboard.
-Click on **Add Test Plan** to create a new test plan or select an existing one.
-Name the test plan and add relevant test suites to it.
+* Navigate to **Test Plans** from the main dashboard.
+* Click on **Add Test Plan** to create a new test plan or select an existing one.
+* Name the test plan and add relevant test suites to it.
 
 **Add Test Cases:**
 
-Ensure the test cases you want to execute are part of the test plan.
-If needed, you can create new test cases under the **Test Cases** section.
+* Ensure the test cases you want to execute are part of the test plan.
+* If needed, you can create new test cases under the **Test Cases** section.
 
 **Creating/Managing Test Cases**
 1.**Create a New Test Case:**
 
-Go to **Test Cases** and click on **Add Test Case**.
-Provide the following details for each test case:
+* Go to **Test Cases** and click on **Add Test Case**.
+* Provide the following details for each test case:
 
 **Title:** A brief description of the test.
 
@@ -129,16 +129,18 @@ Be Detailed in Test Cases: Ensure test cases are clear and cover all necessary s
 1.**Test Case Not Executing Properly:**
 
 * Check the test environment for issues that may prevent the test from running correctly.
-* Verify that all preconditions are met and dependencies are satisfied. 
+* Verify that all preconditions are met and dependencies are satisfied.
+  
 2.**Login Issues:**
 
-*Double-check your credentials.
+* Double-check your credentials.
 * If you can't log in, reset your password or contact the administrator.
 
 3.**Test Case Status Not Updating:**
 
-Ensure you have the necessary permissions to modify test results.
-If the issue persists, try refreshing the page or clearing your browser cache.
+* Ensure you have the necessary permissions to modify test results.
+* If the issue persists, try refreshing the page or clearing your browser cache.
+
 # Conclusion
 This README is a demonstration for  managing and executing manual tests using **TestRail**. By following this process,we can ensure that your test cases are organized, executed efficiently, and results are accurately logged for further analysis.
 
